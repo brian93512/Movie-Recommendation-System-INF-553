@@ -2,7 +2,7 @@
 ## How to read
 You can find assignment description and source code in each assighment folder
 ## Data Source
-All data set is the same called MovieLens data set, and came from the website [GroupLens] (https://grouplens.org/datasets/movielens/)
+All data set is the same called MovieLens data set, and came from the website [GroupLens](https://grouplens.org/datasets/movielens/)
 ## Assignment Description: 
 | Assignments  | Description | Programming Language  | Framework  | Related Algorithm  |
 |---|---|---|---|---|
