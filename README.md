@@ -2,7 +2,8 @@
 ## How To Use
 You can find assignments description and source code in each assighment folder
 ## Assignments Description:
-These whole assignment is about building a movie recommendation system using Data Mining 
+These whole assignment is about building a movie recommendation system using Data Mining
+
 | Assignments  | Description | Programming Language  | Framework  | Related Algorithm  |
 |---|---|---|---|---|
 | Home Work 1  | Movie Rating Counting | Python | Spark  | Map Reduce  |
