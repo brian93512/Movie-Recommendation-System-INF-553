@@ -4,10 +4,7 @@ Assignment Description:
 | Assignments | Description     | Programming Language |
 | --- | --- | ---  |
 | Home Work 1 | Word Counting   | Python               |
-| Home Work 2 |                 |                      |
-| Home Work 3 |                 |                      |
-| Home Work 4 |                 |                      |
-| Home Work 5 |                 |                      |
+
 
 |   |   |   |   |   |
 |---|---|---|---|---|
