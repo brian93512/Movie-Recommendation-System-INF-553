@@ -12,4 +12,4 @@ You can find assignment description and source code in each assighment folder
 ## Data Source
 Data set is called MovieLens data, and came from the website [GroupLens](https://grouplens.org/datasets/movielens/)
 ## Referances
-Stanford Computer Science CS246: [Mining Massive Dataset] (http://www.mmds.org/)
+Stanford Computer Science CS246: [Mining Massive Dataset](http://www.mmds.org/)
