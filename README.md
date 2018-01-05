@@ -1,4 +1,4 @@
-# Building A Movie Recommendation System (USC INF-553 Data Mining)
+# Movie Recommendation System (USC INF-553 Data Mining)
 ## How To Use
 You can find assignments description and source code in each assighment folder
 ## Assignments Description:
