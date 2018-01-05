@@ -1,5 +1,5 @@
 # Movie Recommendation System (USC INF-553 Data Mining)
-## Assignments Description:
+## Description:
 These assignments (except assignement 5) are about building a movie recommendation system using Data Mining
 
 | Assignments  | Description | Programming Language  | Framework  | Related Algorithm  |
