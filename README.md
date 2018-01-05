@@ -1,5 +1,5 @@
 # Data Mining Assignments (USC INF-553)
-## How to read
+## How To
 You can find assignment description and source code in each assighment folder
 ## Assignment Description: 
 | Assignments  | Description | Programming Language  | Framework  | Related Algorithm  |
