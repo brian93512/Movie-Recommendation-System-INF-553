@@ -2,7 +2,7 @@
 ## Description:
 These assignments (except assignement 5) are about building a movie recommendation system using Data Mining
 
-| Assignments  | Description | Programming Language  | Framework  | Related Algorithm  |
+| Assignments  | Topic | Programming Language  | Framework  | Related Algorithm  |
 |---|---|---|---|---|
 | Assignment 1  | Movie Rating Counting | Python | Spark  | Map Reduce  |
 | Assignment 2  | Finding Frequent Item Set | Python  | Spark  | A-priori, SON  |
