@@ -1,2 +1,2 @@
-# Data Mining INF-553 (USC)
+# Data Mining Assignments (USC)
 5 assignments from Data Mining (inf 553)
