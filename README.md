@@ -1,9 +1,8 @@
-# Data Mining Assignments (USC)
-5 assignments from Data Mining (inf 553)
+# Data Mining Assignments (USC INF-553)
 You can find assignment description and requirement in each assighment folder
-Assignment Description
+Assignment Description: 
 | Assignments | Description       | Programming Language  |
-| ----------- | ----------------- | --------------------- |
+| :----------:| :---------------: | :-------------------: |
 | Home Work 1 | Word Counting     | Python                |
 | Home Work 2 |                   |                       |
 | Home Work 3 |                   |                       |
