@@ -10,4 +10,4 @@ You can find assignment description and source code in each assighment folder
 | Home Work 4  | Local Sensitive Hashing  | Python  | Spark | LSH  |
 | Home Work 5  | Social Network Analysis  | Scala, Python  | Spark  | Girvan-Newman  |
 ## Data Source
-All data set is the same called MovieLens data set, and came from the website [GroupLens](https://grouplens.org/datasets/movielens/)
+Data set is called MovieLens data, and came from the website [GroupLens](https://grouplens.org/datasets/movielens/)
