@@ -1,6 +1,4 @@
 # Movie Recommendation System (USC INF-553 Data Mining)
-## How To Use
-You can find assignments description and source code in each assighment folder
 ## Assignments Description:
 These assignments (except assignement 5) are about building a movie recommendation system using Data Mining
 
@@ -11,6 +9,8 @@ These assignments (except assignement 5) are about building a movie recommendati
 | Assignment 3  | Collaborating Filtering  | Scala, Python  | Spark  | User / Item-based CF  |
 | Assignment 4  | Local Sensitive Hashing  | Python  | Spark | LSH  |
 | Assignment 5  | Social Network Analysis  | Scala, Python  | Spark  | Girvan-Newman  |
+## How To Use
+You can find assignments description and source code in each assighment folder
 ## Data Source
 Data set is called MovieLens data, and came from the website [GroupLens](https://grouplens.org/datasets/movielens/)
 ## References
