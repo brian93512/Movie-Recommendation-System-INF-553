@@ -11,3 +11,5 @@ You can find assignment description and source code in each assighment folder
 | Home Work 5  | Social Network Analysis  | Scala, Python  | Spark  | Girvan-Newman  |
 ## Data Source
 Data set is called MovieLens data, and came from the website [GroupLens](https://grouplens.org/datasets/movielens/)
+## Referances
+Stanford Computer Science CS246: [Mining Massive Dataset] (http://www.mmds.org/)
